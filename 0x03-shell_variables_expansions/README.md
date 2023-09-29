@@ -1,1 +1,1 @@
-Alx Project <Shell init files and Variables Expansions>
+README.md file for shell_variables_expansions
